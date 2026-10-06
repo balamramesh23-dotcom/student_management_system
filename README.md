@@ -5,7 +5,7 @@ A simple Python CLI app to manage student records and marks.
 ## Run the project
 
 ```powershell
-Set-Location "C:\Users\sohan\OneDrive\Desktop\main project"
+Set-Location "C:\Users\pc\Desktop\main project\main project"
 py .\main.py
 ```
 
