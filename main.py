@@ -1,4 +1,4 @@
-from backend.student_manager import StudentManager
+from student_management.student_manager import StudentManager
 
 
 def show_menu():

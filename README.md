@@ -39,9 +39,8 @@ python .\main.py
 
 ```text
 main project/
-├── backend/
+├── student_management/
 │   ├── __init__.py
-│   ├── __pycache__/
 │   ├── analysis.py
 │   ├── file_handler.py
 │   ├── student.py

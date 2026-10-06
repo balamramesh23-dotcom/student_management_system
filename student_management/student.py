@@ -1,6 +1,10 @@
 import datetime
 
-from backend.analysis import calculate_average, calculate_status, needs_improvement
+from student_management.analysis import (
+    calculate_average,
+    calculate_status,
+    needs_improvement,
+)
 
 
 class Student:

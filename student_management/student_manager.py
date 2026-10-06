@@ -1,8 +1,8 @@
 import random
 
-from backend.analysis import PASS_MARK
-from backend.file_handler import load_students, save_students
-from backend.student import Student
+from student_management.analysis import PASS_MARK
+from student_management.file_handler import load_students, save_students
+from student_management.student import Student
 
 SUBJECT_COUNT = 4
 

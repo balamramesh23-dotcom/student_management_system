@@ -2,7 +2,7 @@ import csv
 import json
 from pathlib import Path
 
-from backend.student import Student
+from student_management.student import Student
 
 DATA_FILE = Path(__file__).resolve().parents[1] / "data" / "students.csv"
 HEADERS = [
